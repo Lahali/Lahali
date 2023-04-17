@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halimeh</h1>
-<h3 align="center">A frontend developer student, currently in Barcelona.</h3>
+<h3 align="center">A frontend developer, currently in Barcelona.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I work with **React**, **ES6** and **Typescript**
 
 - 📫 How to reach me **matamua82@gmail.com**
 
